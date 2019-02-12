@@ -4,6 +4,8 @@ Final Push. Layout issues fixed also navigating back from highscorelist does not
 Final Assignment of the course App Studio of the minor Programmeren at the UvA.
 Let's the user play trivia by posing 25 questions of the selected difficulty from an API. Only when all the questions are answered will the player be added to the highscorelist.
 
+Rotation is NOT functional!
+
 ![](Images/Screenshot_2019-02-11-13-39-24.png)
 ![](Images/Screenshot_2019-02-11-13-39-32.png)
 ![](Images/Screenshot_2019-02-11-13-39-43.png)
